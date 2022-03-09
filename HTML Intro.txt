@@ -1,0 +1,98 @@
+html introduction:
+
+1. html communicates instructions to the web browser.
+
+2. how the page should be presented to the viewer.
+
+-------------------------
+
+HTML- hyper text markup language
+
+uses:
+1. structure of web page
+2. how the content should be displayed on web browser.
+3. mark the content on the web page.
+
+-----------------------
+
+ 		 this is markup
+		<p>this is a paragraph1.</p>
+
+		<p></p>
+	<tag/>  
+
+<p />
+
+<br/>
+&nbsp;&nbsp;
+
+-------------------------------------
+
+<tag name="value">some text</tag>
+
+<a href="https://www.google.com/">google</a>
+
+-----------------------------------------
+basic structure of html
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>page title</title>
+
+</head>
+<body>
+
+<h1>heading</h1>
+<p>this is paragraph</p>
+
+</body>
+
+</html>
+
+-----------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>jeshu</title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+<p>jeshu is learning html</p>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
